@@ -1,12 +1,12 @@
 		#titolone
 		{
-			width:290px;
-			height:29px;
+			width:270px;
+			height:29.5px;
 
-			font: 14px/29px 'Titillium Web',sans-serif;
+			font: 12px/29px 'Titillium Web',sans-serif;
 			font-weight: bold;
 			color: white;
-			text-align:center;
+			text-align:left;
 			border-radius:0px;
 			background: rgba(0,149,224,0.9);
 			position:absolute;
