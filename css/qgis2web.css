@@ -17,11 +17,11 @@
 			display: inline-block;
 			border:0px solid #009a49;
 		}
-				#image 
+		#logotitolone 
 		{	
 			position:absolute;
-			top:20px;
-			right:37.5px;
+			top:10.5px;
+			left:302px;
 			margin:auto;
 				z-index: 2000;
 		}		
